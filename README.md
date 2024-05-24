@@ -29,11 +29,7 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
-### 📝 My GitHub Stats 
 
-![Noor's Github Profile Views](https://komarev.com/ghpvc/?username=itsaqibdev&color=blueviolet)
-<br/>
-[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=itsaqibdev&theme=gotham)](https://github.com/iTMaster228/github-readme-stats)
 
 
     
