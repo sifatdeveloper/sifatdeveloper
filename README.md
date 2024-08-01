@@ -3,7 +3,7 @@
 <a href="https://github.com/sifatdeveloper"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/github-logo.png" width="40" /></a>
 <a href="mailto:sifatrasheed174@gmail.com"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/google-plus.png" width="40" /></a>
 
-### A Tech Lead, iOS, Android Developer, Community Builder & a Traveler
+### A Tech Lead, Android Developer, Community Builder & a Traveler
 - 🙋‍♂️ Studied BS (Computer Science) from <b>Government College University</b>, Faisalabad, Pakistan
 - 💻 Creating awesome apps in <b>Android Developer</b>,<b>Java</b>
 
