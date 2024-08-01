@@ -12,10 +12,7 @@
 
 ### A Tech Lead, iOS, Android Developer, Community Builder & a Traveler
 - 🙋‍♂️ Studied BS (Computer Science) from <b>Government College University</b>, Faisalabad, Pakistan
-- 🎮 Creating amazing games in <b>Unity3d</b>,<b>C++</b>
 - 💻 Creating awesome apps in <b>Android Developer</b>,<b>Java</b>
-- ✍️ Android Reverse Engineering 
-- 📝 Ethical Hacking
 
 ### ⚒️ Languages & Tools
 
